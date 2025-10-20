@@ -9,8 +9,7 @@ Hi, I'm Juan!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+
 
 ```
 💻 I’m a Systems Engineering and Computer Science student,passionate about
@@ -28,4 +27,7 @@ software development, especially backend engineering and cybersecurity.
 🎶 I love metal, lofi, jazz, and soft music
 ☕ I believe good coffee = good code
 ```
+
+<img align="left" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 <hr>
